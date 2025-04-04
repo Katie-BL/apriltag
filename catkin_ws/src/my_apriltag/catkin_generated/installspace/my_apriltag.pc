@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: my_apriltag
+Description: Description of my_apriltag
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
